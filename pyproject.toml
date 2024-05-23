@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-promptlab"
+description = "connection nodes for api requests, fully supports promptLAB"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Makeezi/ComfyUI-promptLAB"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-promptLAB"
+Icon = ""
